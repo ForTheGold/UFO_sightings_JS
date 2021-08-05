@@ -46,3 +46,9 @@ One drawback of this site is that you cannot search the comment section.  My fir
 There are many additional features that could be added to this site.  I would start with allowing users to interact with the site which could be done in a variety of ways.  There should be a way for users to add to the data set.  There could be an input form which allows users to add their own sightings which would then be approved by the owner of the site.  I would also recommend some sort of a forum or comments section where users can discuss their own opinions on the material that is presented on the site.
 
 There are also several other elements that would make the site more complete.  We could add an About and a Contact page for starters so that users would be able to contact the owner of the site.  I believe another addition that would be very beneficial to the user base would be a Resource section that provides recommendations to books and documentaries on the topic as well as links to additional web resources that provide more information on the sightings.
+
+### Technologies
+
+* D3
+* JavaScript
+* HTML, CSS, BootStrap
